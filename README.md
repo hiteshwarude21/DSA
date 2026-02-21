@@ -70,5 +70,3 @@ This repo is my **daily DSA grind tracker** with continuous improvements and bet
 
 ---
 
-⭐ If you find this repo useful, consider giving it a star!
-
